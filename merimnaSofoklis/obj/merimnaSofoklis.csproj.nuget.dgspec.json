@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Merimna\\merimnaSofoklis\\merimnaSofoklis.csproj": {}
+    "C:\\Users\\Sofoklis\\source\\repos\\merimnaAzureDevOps\\merimnaSofoklis\\merimnaSofoklis.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Merimna\\merimnaSofoklis\\merimnaSofoklis.csproj": {
+    "C:\\Users\\Sofoklis\\source\\repos\\merimnaAzureDevOps\\merimnaSofoklis\\merimnaSofoklis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Merimna\\merimnaSofoklis\\merimnaSofoklis.csproj",
+        "projectUniqueName": "C:\\Users\\Sofoklis\\source\\repos\\merimnaAzureDevOps\\merimnaSofoklis\\merimnaSofoklis.csproj",
         "projectName": "merimnaSofoklis",
-        "projectPath": "D:\\Projects\\Merimna\\merimnaSofoklis\\merimnaSofoklis.csproj",
+        "projectPath": "C:\\Users\\Sofoklis\\source\\repos\\merimnaAzureDevOps\\merimnaSofoklis\\merimnaSofoklis.csproj",
         "packagesPath": "C:\\Users\\Sofoklis\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Merimna\\merimnaSofoklis\\obj\\",
+        "outputPath": "C:\\Users\\Sofoklis\\source\\repos\\merimnaAzureDevOps\\merimnaSofoklis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

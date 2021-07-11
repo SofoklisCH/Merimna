@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NPyGOmDwT/jUfHJ5Kb6wnPyzUbMX6a4WRuPwAYgxOXv3l+dq+vpxVsC0J9CaDJ1pF7FdP5pE1guwUovo53qZmA==",
+  "dgSpecHash": "9BWjDdzVye+6SZuTwt0+x6MrA0RwyCn1ukMj+SCWbvRwhNNmhOsVR3iLtbzvjedF/jUgFboCO+7ggh0DCjPx6A==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Merimna\\merimnaSofoklis\\merimnaSofoklis.csproj",
+  "projectFilePath": "C:\\Users\\Sofoklis\\source\\repos\\merimnaAzureDevOps\\merimnaSofoklis\\merimnaSofoklis.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sofoklis\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Sofoklis\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
